@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "3",
+      "checked": false,
+      "item": "AI"
+    },
+    {
+      "id": "4",
+      "checked": false,
+      "item": "python"
+    },
+    {
+      "id": "51",
+      "checked": false,
+      "item": "css"
+    },
+    {
+      "id": "511",
+      "checked": false,
+      "item": "java"
+    }
+  ],
+  "products": [
+    {
+      "name": "acer",
+      "id": "354",
+      "brand": "laptop"
+    }
+  ]
+}
